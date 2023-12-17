@@ -9,3 +9,4 @@ Created a custom robot named as Explorer Bot .Two wheel Differential Drive type 
     Gmapping Node with lidar sensor as a source. 
     After that create a room for Autonomous Navigation using Gazebo Model Builder tool. 
     THe robot will perform Autonomous driving using Navigation Stack and Path Planning algorithms from Navigation Stack.
+    Rviz and Gazebo used for Visualization
